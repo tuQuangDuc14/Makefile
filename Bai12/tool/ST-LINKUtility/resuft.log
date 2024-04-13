@@ -1,0 +1,15 @@
+STM32 ST-LINK CLI v3.1.0.0
+STM32 ST-LINK Command Line Interface
+
+ST-LINK SN : 271108002A12354D314B4E00
+ST-LINK Firmware version : V2J37S7
+Connected via SWD.
+SWD Frequency = 4000K.
+Target voltage = 3.2 V.
+Connection mode : Normal.
+Device ID:0x410 
+Device flash Size : 128 Kbytes
+Device family :STM32F10xx Medium-density
+
+0x08000000 : 20005000 
+
